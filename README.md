@@ -22,5 +22,11 @@
 > - Notify process-related parties via email and messaging
 > Find out more details such as benefits and use cases in the overview section, learn about installing and using Concord from > the documentation and check out our overview and user training material.
 
+[![](https://api.gh-polls.com/poll/01EN5T52PGSKQA42VT9MYBGE0F/I%20Approve%20of%20this%20solution)](https://api.gh-polls.com/poll/01EN5T52PGSKQA42VT9MYBGE0F/I%20Approve%20of%20this%20solution/vote)
+[![](https://api.gh-polls.com/poll/01EN5T52PGSKQA42VT9MYBGE0F/I%20approve%2C%20but%20some%20questions%20or%20issues)](https://api.gh-polls.com/poll/01EN5T52PGSKQA42VT9MYBGE0F/I%20approve%2C%20but%20some%20questions%20or%20issues/vote)
+[![](https://api.gh-polls.com/poll/01EN5T52PGSKQA42VT9MYBGE0F/I%20am%20uncertain%20about%20this%20solution)](https://api.gh-polls.com/poll/01EN5T52PGSKQA42VT9MYBGE0F/I%20am%20uncertain%20about%20this%20solution/vote)
+[![](https://api.gh-polls.com/poll/01EN5T52PGSKQA42VT9MYBGE0F/This%20is%20not%20the%20right%20solution)](https://api.gh-polls.com/poll/01EN5T52PGSKQA42VT9MYBGE0F/This%20is%20not%20the%20right%20solution/vote)
+
+
 ###Solution 2: Something Gartner Recommends
 
