@@ -6,6 +6,9 @@
 - These "Hardened" pipelines require standardization, stability and predictability, but must also fit the needs of multiple teams, products and technial stacks. Currently, every team in CVP seems to have their own pipeline of varying quality.
 - How do we maintain team autonomy, while having a standard pipeline that can provide the safety and confidence of good governnance, while enabling teams to deliver value un-interrupted? 
 
+## Expected Use Cases Covered by Solutions
+> Identify which use case to cover and which are excluded
+
 ## Proposed Solutions
 ### Solution 1: Concord
  [Open Sourced Concord From Walmart Labs](https://concord.walmartlabs.com/)
