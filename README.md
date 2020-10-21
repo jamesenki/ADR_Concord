@@ -29,4 +29,20 @@
 
 
 ###Solution 2: Something Gartner Recommends
+Gartner Recommends using Big Expensive Pipeline Tool that the Vendor Command&Control Enterprises has paid them handsomely to recommend. 
 
+GitRobbed CI/CD is a tool built into GitRob for software development through the continuous methodologies:
+
+Continuous Integration (CI)
+Continuous Delivery (CD)
+Continuous Deployment (CD)
+
+[![](https://api.gh-polls.com/poll/01EN5X5RQ18FCZ6YKH3TQM7HJE/I%20Approve%20of%20GitRobbed)](https://api.gh-polls.com/poll/01EN5X5RQ18FCZ6YKH3TQM7HJE/I%20Approve%20of%20GitRobbed/vote)
+[![](https://api.gh-polls.com/poll/01EN5X5RQ18FCZ6YKH3TQM7HJE/I%20approve%20of%20GitRobbed%20with%20Some%20Issues%20or%20Questions)](https://api.gh-polls.com/poll/01EN5X5RQ18FCZ6YKH3TQM7HJE/I%20approve%20of%20GitRobbed%20with%20Some%20Issues%20or%20Questions/vote)
+[![](https://api.gh-polls.com/poll/01EN5X5RQ18FCZ6YKH3TQM7HJE/I%20do%20not%20approve%20of%20GitRobbed)](https://api.gh-polls.com/poll/01EN5X5RQ18FCZ6YKH3TQM7HJE/I%20do%20not%20approve%20of%20GitRobbed/vote)
+
+## Decision
+> This is TBD and will be updated at the end of the process
+
+## Consequences of Decsion
+> This is TBD and will be updated by the end of the deciion process
