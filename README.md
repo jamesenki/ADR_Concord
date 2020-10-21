@@ -28,7 +28,7 @@
 [![](https://api.gh-polls.com/poll/01EN5T52PGSKQA42VT9MYBGE0F/This%20is%20not%20the%20right%20solution)](https://api.gh-polls.com/poll/01EN5T52PGSKQA42VT9MYBGE0F/This%20is%20not%20the%20right%20solution/vote)
 
 
-###Solution 2: Something Gartner Recommends
+### Solution 2: Something Gartner Recommends
 Gartner Recommends using Big Expensive Pipeline Tool that the Vendor Command&Control Enterprises has paid them handsomely to recommend. 
 
 GitRobbed CI/CD is a tool built into GitRob for software development through the continuous methodologies:
