@@ -21,6 +21,8 @@
 > - Automatically create issues
 > - Notify process-related parties via email and messaging
 > Find out more details such as benefits and use cases in the overview section, learn about installing and using Concord from > the documentation and check out our overview and user training material.
+ //polls "Concord For the Win" "Yeah, Maybe" "Please not this"
+
 
 ## What do you get?
 
