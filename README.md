@@ -44,5 +44,5 @@ Continuous Deployment (CD)
 ## Decision
 > This is TBD and will be updated at the end of the process
 
-## Consequences of Decsion
+## Consequences of Decision
 > This is TBD and will be updated by the end of the deciion process
