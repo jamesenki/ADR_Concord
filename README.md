@@ -1,5 +1,5 @@
-# flight of the concord
-> finding an enterprise workflow orchestration engine that can coordinate Continuous Integration pipelines and managee Continuous Deployment  
+# Find a Standardized Workflow/Pipeline Product
+> finding an enterprise workflow orchestration engine that can coordinate Continuous Integration pipelines and managee Continuous Deployment in a way that flexible and scalable enough to meet then needs of most teams in our ecosystem.   
 
 ## Problem Statement
 - High performing teams practice continuous integration with trunk based development, automated testing of code, behavior and compliance for security and other governance. 
@@ -8,6 +8,22 @@
 
 ## Expected Use Cases Covered by Solutions
 > Identify which use case to cover and which are excluded
+### Use Case: Embedded Systems Integration and Delivery
+-Merge, Build, Scan, Test, Deploy to HIL/SIL
+-Merge, Build, Scan, Test, Deploy to Bench
+-Merge, Build, Scan, Test, Deploy to Vehicles
+
+### Use Case: Mobile Application Integration and Delivery
+- Merge, Build, Scan, Test, Certify, Deploy to Android
+- Merge, Build, Scan, Test, Certify, Deploy to iOS
+
+### Use Case: SDPR
+- Merge, Build, Scan, Test, Deploy to Environments
+
+### Other Functional Requirements
+ - Enablement/Governance for Architecture Requirements using As Code
+ - Enablement Security as Code
+ - Enablement Policy Compliance as Code
 
 ## Proposed Solutions
 ### Solution 1: Concord
@@ -31,10 +47,10 @@
 [![](https://api.gh-polls.com/poll/01EN5T52PGSKQA42VT9MYBGE0F/This%20is%20not%20the%20right%20solution)](https://api.gh-polls.com/poll/01EN5T52PGSKQA42VT9MYBGE0F/This%20is%20not%20the%20right%20solution/vote)
 
 
-### Solution 2: Something Gartner Recommends
-Gartner Recommends using Big Expensive Pipeline Tool that the Vendor Command&Control Enterprises has paid them handsomely to recommend. 
+### Solution 2: Gitlab
+Gartner Recommends using Gitlab. 
 
-GitRobbed CI/CD is a tool built into GitRob for software development through the continuous methodologies:
+GitLab CI/CD is a tool built into Git for software development through the continuous methodologies:
 
 Continuous Integration (CI)
 Continuous Delivery (CD)
